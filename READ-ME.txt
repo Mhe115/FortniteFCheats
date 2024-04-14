@@ -1,0 +1,9 @@
+You will need:
+~Python 3.10
+With the modules:
+~pyautogui
+~PIL
+~pynput
+
+Made by Conor H
+14/04/2024
